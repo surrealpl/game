@@ -6,4 +6,38 @@ html, body {
 body{
     background-image: url(imgs/main.jpg);
     background-size: cover;
+    font-family: 'Dancing Script', cursive;
 }
+
+#navi{
+    padding-left: 15%;
+    padding-right: 10%;
+    width: 75%;
+    height: 100px;
+    background-color:	#282828;
+    border-bottom: 3px solid black;
+    
+}
+
+.kafel{
+    width: 18%;
+    text-align: center;
+    font-size: 35px;
+    color: #ffffff;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    border-left: 2px solid #33402a;
+    border-right: 2px solid #33402a;
+    float: left;
+ }
+
+ #main{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 60%;
+    height: 1000px;
+    background-color: azure;
+
+ }
